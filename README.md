@@ -1,2 +1,2 @@
 # Devops-Repo
-This is a repository for devops Project
+This is a repository for dummy (test) devops Project
